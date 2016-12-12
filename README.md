@@ -1,2 +1,3 @@
 # Max-Fx-Sampler
 Fx Sampler made for Max for Live 
+This is a Max for Live Sampler that allows you to add Fx or Foley sounds into your post production work. This Sampler is good for creating different animal sounds by layering the sounds together and for adding footsteps without the hassle of trying to achieve perfect sync while recording to picture. You are able to adust the frequency of the sound, as well as add reverberation. There is also a compressor available to adjust the attack, release, sustain, and decay. With this sampler you are able to manipulate sound files, whether they be from a sound effects library or your own recorded sounds, and place them to picture by simply pressing down A or S on the computer keyboard.
